@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Kerim 👋
 
-<!--
-**medkerimjbeli-hue/medkerimjbeli-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering & Cybersecurity student at ESGITECH (Tunisia).
+Founder of **indie-TUN** (Independent games. Tunisian soul.) and
+Founding President of **Tunivisions ESGITECH**.
 
-Here are some ideas to get you started:
+## Projects
+- 🔐 [CyberGuard](https://github.com/medkerimjbeli-hue/cyberguard): CLI cybersecurity assistant in Python
+- 🏕️ [tool4scouts](https://github.com/medkerimjbeli-hue/tool4scouts): helper tool for scout leaders, built for a real team
+- ⏰ [sleepy-alarm-clock](https://github.com/medkerimjbeli-hue/sleepy-alarm-clock): because I don't trust my phone alarm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Python · Pygame · HTML/CSS/JS · Git · CTF basics
+
+## Looking for
+An internship in software development or cybersecurity.
+
+📫 [LinkedIn](https://www.linkedin.com/in/mohamed-kerim-jbeli/) · medkerimjbeli@gmail.com
